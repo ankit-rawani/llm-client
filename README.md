@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+# LLM Chat UI made with React + TypeScript + Vite + ShadCN
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -28,3 +28,10 @@ export default {
 -   Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 -   Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 -   Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+
+## **Demo Images**
+
+|             Light mode             |             Dark mode              |
+| :--------------------------------: | :--------------------------------: |
+| ![Demo Image 1](./demo/image1.png) | ![Demo Image 2](./demo/image2.png) |
+| ![Demo Image 3](./demo/image4.png) | ![Demo Image 4](./demo/image3.png) |

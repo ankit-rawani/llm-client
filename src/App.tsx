@@ -136,7 +136,7 @@ function App() {
                         </div>
                         {/* Generator */}
                         {loading && (
-                            <div className="w-full flex flex-col pt-1.5">
+                            <div className="w-full flex flex-col pt-1.5 my-4">
                                 <div className="text-sm font-bold flex items-center space-x-2">
                                     <Avatar>
                                         <AvatarImage src={user_avatar_map["assistant"]} />
